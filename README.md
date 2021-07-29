@@ -6,4 +6,4 @@ For all the prime numbers:
 
 When the result obtained is plotted, they repeat a pattern forming parallelograms.
 
-![](9592.png)
+![](9591.png)
